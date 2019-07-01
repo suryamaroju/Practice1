@@ -1,0 +1,12 @@
+d:\demoproj\logSMBios\logSMBios\bin\Debug\logSMBios.exe.config
+d:\demoproj\logSMBios\logSMBios\bin\Debug\logSMBios.exe
+d:\demoproj\logSMBios\logSMBios\bin\Debug\logSMBios.pdb
+d:\demoproj\logSMBios\logSMBios\obj\Debug\logSMBios.exe
+d:\demoproj\logSMBios\logSMBios\obj\Debug\logSMBios.pdb
+D:\demoproj\logSMBios\logSMBios\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\demoproj\logSMBios\logSMBios\bin\Debug\NPOI.dll
+D:\demoproj\logSMBios\logSMBios\bin\Debug\NPOI.OOXML.dll
+D:\demoproj\logSMBios\logSMBios\bin\Debug\NPOI.OpenXml4Net.dll
+D:\demoproj\logSMBios\logSMBios\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\demoproj\logSMBios\logSMBios\bin\Debug\NPOI.xml
+D:\demoproj\logSMBios\logSMBios\obj\Debug\logSMBios.csprojResolveAssemblyReference.cache
