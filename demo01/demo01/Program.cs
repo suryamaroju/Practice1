@@ -11,6 +11,7 @@ namespace demo01
         static void Main(string[] args)
         {
             Console.WriteLine(createMessage());
+            Console.WriteLine("The End of testing");
 
             
         }
