@@ -10,6 +10,7 @@ namespace demo01
     {
         static void Main(string[] args)
         {
+            //adding comments
             Console.WriteLine(createMessage());
             Console.WriteLine("The End of testing");
 
