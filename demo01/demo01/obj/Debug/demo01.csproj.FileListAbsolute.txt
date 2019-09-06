@@ -12,3 +12,10 @@ C:\Users\v-sumaro\source\repos\Practice1\demo01\demo01\obj\Debug\demo01.csprojAs
 C:\Users\v-sumaro\source\repos\Practice1\demo01\demo01\obj\Debug\demo01.csproj.CoreCompileInputs.cache
 C:\Users\v-sumaro\source\repos\Practice1\demo01\demo01\obj\Debug\demo01.exe
 C:\Users\v-sumaro\source\repos\Practice1\demo01\demo01\obj\Debug\demo01.pdb
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\bin\Debug\demo01.exe.config
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\bin\Debug\demo01.exe
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\bin\Debug\demo01.pdb
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\obj\Debug\demo01.csprojAssemblyReference.cache
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\obj\Debug\demo01.csproj.CoreCompileInputs.cache
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\obj\Debug\demo01.exe
+C:\Users\msury\Desktop\gitHubRepo\demo01\demo01\obj\Debug\demo01.pdb
